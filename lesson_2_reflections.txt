@@ -1,2 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
-You create a repository to save your work. Once created you have to commit to make a save point. You need it to initilize the whole repository and create a location.
+You create a repository to save your work. Once created you have to commit to make a save point. 
+You need it to initilize the whole repository and create a location.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+This is a stage where the files havnt been commited yet. This is the stage inbetween the working respository, where files are
+chosen to be shipped away to be stored on the repository. This allows you to choose what files you want to be saved to the repository.
+
