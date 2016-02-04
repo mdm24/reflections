@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+You create a repository to save your work. Once created you have to commit to make a save point. You need it to initilize the whole repository and create a location.
