@@ -10,3 +10,8 @@ does not change the original persons repository.
 Clone- clone is used to make a copy of a repository onto your local machine.
 Branches- are used to create different versions of the same repository. This means you can have different changes on different branches.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You are able to access the most up to date version of the program.
+
+
+
