@@ -13,5 +13,11 @@ Branches- are used to create different versions of the same repository. This mea
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You are able to access the most up to date version of the program.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would meet with the other people in person to go over the code. It would be quicker and easier to communicate and discuss problems.
+It would be harder to organise a time for everyone to meet up and therefore github can be helpful.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you want to experiment and make changes to the work without changing the original work. This allows you to experiment and potentially
+improve your work without the fear of breaking your groups work. On the other hand it takes more time to merge the changes all together later.
 
